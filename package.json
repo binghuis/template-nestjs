@@ -27,7 +27,8 @@
     "rxjs": "^7.8.1"
   },
   "devDependencies": {
-    "@nestjs/cli": "^10.1.1",
+    "@nestjs/cli": "^10.1.4",
+    "@nestjs/config": "^3.0.0",
     "@nestjs/schematics": "^10.0.1",
     "@nestjs/testing": "^10.0.5",
     "@swc/cli": "^0.1.62",
@@ -35,8 +36,8 @@
     "@types/express": "^4.17.17",
     "@types/node": "20.3.3",
     "@types/supertest": "^2.0.12",
-    "@typescript-eslint/eslint-plugin": "^5.60.1",
-    "@typescript-eslint/parser": "^5.60.1",
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
     "@vitest/coverage-v8": "^0.32.4",
     "eslint": "^8.44.0",
     "eslint-config-prettier": "^8.8.0",
